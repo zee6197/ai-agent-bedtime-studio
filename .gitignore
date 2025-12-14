@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Runtime logs
+story_sessions.log
+
+# Environment files
+.env
+*.env
